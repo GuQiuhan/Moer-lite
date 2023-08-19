@@ -1,0 +1,227 @@
+[
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/main.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/main.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/main.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/CoreLayer/Math/Transform.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/CoreLayer/Math/Transform.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/CoreLayer/Math/Transform.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/AABB.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/AABB.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/AABB.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/Acceleration.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/Acceleration.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/Acceleration.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/EmbreeBVH.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/EmbreeBVH.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/EmbreeBVH.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/Linear.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/Linear.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/Linear.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/Octree.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/Octree.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/Octree.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Integrator/NormalIntegrator.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Integrator/NormalIntegrator.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Integrator/NormalIntegrator.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Integrator/DirectIntegrator.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Integrator/DirectIntegrator.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Integrator/DirectIntegrator.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Integrator/PathIntegrator.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Integrator/PathIntegrator.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Integrator/PathIntegrator.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Integrator/WhittedIntegrator.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Integrator/WhittedIntegrator.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Integrator/WhittedIntegrator.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Camera/Camera.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Camera/Camera.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Camera/Camera.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Camera/Pinhole.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Camera/Pinhole.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Camera/Pinhole.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Scene/Scene.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Scene/Scene.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Scene/Scene.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Light/SpotLight.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Light/SpotLight.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Light/SpotLight.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Light/AreaLight.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Light/AreaLight.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Light/AreaLight.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Light/EnvironmentLight.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Light/EnvironmentLight.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Light/EnvironmentLight.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Shape.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Shape.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Shape.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Triangle.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Triangle.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Triangle.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Cube.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Cube.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Cube.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Sphere.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Sphere.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Sphere.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Parallelogram.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Parallelogram.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Parallelogram.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Texture/NormalTexture.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Texture/NormalTexture.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Texture/NormalTexture.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Texture/ImageTexture.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Texture/ImageTexture.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Texture/ImageTexture.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Texture/Texture.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Texture/Texture.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Texture/Texture.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Texture/Mipmap.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Texture/Mipmap.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Texture/Mipmap.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Material/Matte.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Matte.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Matte.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Material/Mirror.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Mirror.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Mirror.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Material/Material.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Material.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Material.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Material/Phong.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Phong.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Phong.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Material/Conductor.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Conductor.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Conductor.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Material/Dielectric.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Dielectric.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/Dielectric.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Material/OrenNayar.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/OrenNayar.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Material/OrenNayar.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Sampler/IndependentSampler.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Sampler/IndependentSampler.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Sampler/IndependentSampler.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Filter/Filter.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Filter/Filter.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Filter/Filter.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Noise/Noise.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Noise/Noise.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Noise/Noise.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/ResourceLayer/Image.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/ResourceLayer/Image.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/ResourceLayer/Image.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/ResourceLayer/Mesh.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/ResourceLayer/Mesh.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/ResourceLayer/Mesh.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/ResourceLayer/FileUtil.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/ResourceLayer/FileUtil.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/ResourceLayer/FileUtil.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Disk.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Disk.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Disk.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Cone.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Cone.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Cone.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Cylinder.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Cylinder.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Shape/Cylinder.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Integrator/UVIntegrator.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Integrator/UVIntegrator.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Integrator/UVIntegrator.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./src -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/json/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/./externals/embree/include -I/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/BVH.cpp.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/BVH.cpp",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/src/FunctionLayer/Acceleration/BVH.cpp"
+},
+{
+  "directory": "/Users/pro/Desktop/Rendering_labs/Moer-lite/build/externals/tinyobjloader",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/tinyobjloader.dir/tiny_obj_loader.cc.o -c /Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader/tiny_obj_loader.cc",
+  "file": "/Users/pro/Desktop/Rendering_labs/Moer-lite/externals/tinyobjloader/tiny_obj_loader.cc"
+}
+]

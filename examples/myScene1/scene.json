@@ -1,0 +1,768 @@
+{
+  "output" : {
+    "filename" : "myScene.hdr"
+  },
+  "sampler" : {
+    "type" : "independent",
+    "xSamples" : 128,
+    "ySamples" : 128
+  },
+  "camera" : {
+    "type" : "pinhole",
+    "transform" : {
+      "position" : [0, 0.4, 3],
+      "up" : [0, 1, 0],
+      "lookAt" : [0, 0.4, 0]
+    },
+    "tNear" : 0.1,
+    "tFar" : 10000,
+    "verticalFov" : 45,
+    "timeStart" : 0,
+    "timeEnd" : 0,
+    "film" : {
+      "size" : [1200, 800]
+    }
+  },
+  "integrator" : {
+    "type" : "DirectSampleLight"
+  },
+  "scene" : {
+    "shapes" : [
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh000.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.684615, 0.684615, 0.684615]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh001_3.obj",
+        "material" : {
+            "type" : "matte",
+            "albedo" : {
+                "type" : "imageTex",
+                "file" : "images/picture2048.hdr"
+              }
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh002.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh003.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh004.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [  0.143119, 0.374957 ,1.442479 ],
+          "k" : [ 3.98316, 2.385721, 1.603215 ],
+          "roughness" : 0.1,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh005.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1,1,1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh006.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" :{
+              "type" : "imageTex",
+              "file" : "images/Tiles.hdr"
+            }
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh007.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [ 1.65746 ,0.880369 ,0.521229 ],
+          "k" : [ 9.223869, 6.269523 ,4.837001 ],
+          "roughness" : 0.1,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh008.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh009.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [  0.143119, 0.374957 ,1.442479 ],
+          "k" : [ 3.98316, 2.385721 ,1.603215 ],
+          "roughness" : 0.1,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh010.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh011.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.01, 0.01, 0.01]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh012.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [  0.143119, 0.374957 ,1.442479 ],
+          "k" : [ 3.98316, 2.385721, 1.603215 ],
+          "roughness" : 0.1,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh013.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.79311, 0.79311, 0.79311]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh014.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.8,0.8,0.8]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh015.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh016.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh017.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh018.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [  0.143119, 0.374957 ,1.442479 ],
+          "k" : [ 3.98316, 2.385721 ,1.603215 ],
+          "roughness" : 0.1,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh019.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [  0.143119 ,0.374957 ,1.442479 ],
+          "k" : [ 3.98316, 2.385721 ,1.603215 ],
+          "roughness" : 0.1,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh020.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh021.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh022.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh023.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.79311 ,0.79311, 0.79311]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh024.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0, 0, 0]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh025.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [ 1.65746 ,0.880369 ,0.521229 ],
+          "k" : [ 9.223869, 6.269523, 4.837001 ],
+          "roughness" : 0.1,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh026.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh027.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.05, 0.05, 0.05]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh028.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh029.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.8,0.8,0.8]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh030.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.05, 0.05, 0.05]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh031.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.05, 0.05, 0.05]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh032.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh033.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.325037 ,0.325037 ,0.325037]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh034.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.05, 0.05, 0.05]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh035.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [ 4.369683, 2.916703 ,1.654701 ],
+          "k" : [ 5.206434, 4.231365, 3.754947 ],
+          "roughness" : 0.05,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh036.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [ 4.369683, 2.916703 ,1.654701 ],
+          "k" : [ 5.206434, 4.231365 ,3.754947 ],
+          "roughness" : 0.05,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh037.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh038.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [ 4.369683 ,2.916703 ,1.654701 ],
+          "k" : [ 5.206434, 4.231365, 3.754947 ],
+          "roughness" : 0.05,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh039.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [  0.143119 ,0.374957, 1.442479 ],
+          "k" : [ 3.98316, 2.385721, 1.603215 ],
+          "roughness" : 0.1,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh040.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.05, 0.05, 0.05]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh041.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.01, 0.01, 0.01]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh042.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.05, 0.05, 0.05]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh043.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh044.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [ 4.369683 ,2.916703 ,1.654701 ],
+          "k" : [ 5.206434 ,4.231365 ,3.754947 ],
+          "roughness" : 0.05,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh045.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [ 1.65746, 0.880369 ,0.521229 ],
+          "k" : [ 9.223869, 6.269523, 4.837001 ],
+          "roughness" : 0.1,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh046.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh047.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [ 4.369683 ,2.916703 ,1.654701 ],
+          "k" : [ 5.206434, 4.231365 ,3.754947 ],
+          "roughness" : 0.05,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh048.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.2, 0.2, 0.2]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh049.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh050.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [1, 1, 1]
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh051.obj",
+        "material" : {
+          "type" : "conductor",
+          "albedo" : [1, 1, 1],
+          "eta" : [ 4.369683 ,2.916703 ,1.654701 ],
+          "k" : [ 5.206434, 4.231365, 3.754947 ],
+          "roughness" : 0.05,
+          "ndf" : "ggx"
+        },
+        "transform" : {
+          "translate" : [0, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      },
+      {
+        "type" : "triangle",
+        "file" : "models/Mesh052.obj",
+        "material" : {
+          "type" : "matte",
+          "albedo" : [0.8, 0.8, 0.8]
+        },
+        "transform" : {
+          "translate" : [0.3, 0, 0],
+          "scale" : [0.3, 0.3, 0.3]
+        }
+      }
+    ],
+    "lights" : [
+      {
+        "type" : "environmentLight",
+        "texture" : {
+          "type" : "imageTex",
+          "file" : "images/Skydome_2.hdr"
+        },
+        "transform" : {
+          "rotate" : [70, 70, -70]
+        }
+      },
+      {
+          "type" : "areaLight",
+          "energy" : [200, 200, 200],
+          "shape" : {
+            "type" : "parallelogram",
+            "base" : [15, 10, 0],
+            "edge1" : [0, 0, 160],
+            "edge0" : [0, -6, 0],
+            "material" : {
+              "type" : "matte",
+              "albedo" : [0.5, 0.5, 0.5]
+            },
+            "transform" : {
+              "rotate" : {
+                  "axis" : [0, 0, 10],
+                  "radian" : 0.2
+              }
+            }
+          }
+       }
+    ]
+  }
+}
