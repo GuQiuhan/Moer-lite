@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is the curriculum lab of an elective course "The Rendering" offered by NJU for junior students. We build our own graphic renderer based on a teaching-oriented Monte Carlo path tracing framework, 
+This is the curriculum lab of an elective course "The Rendering" offered by NJU for junior students. We build a graphic renderer based on the Monte Carlo path tracing framework.
 
 ## Updates
 - March 8, 2023 Complete lab0, compile and run the provided code, and get four rendered pictures.
